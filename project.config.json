@@ -1,0 +1,7 @@
+{
+  "description": "project config file",
+  "projectname": "Tewos",
+  "setting": {
+    "es5": false
+  }
+}
